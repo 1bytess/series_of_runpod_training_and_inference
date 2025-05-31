@@ -89,9 +89,6 @@ For questions, suggestions, or collaboration opportunities, reach out to:
 
 This project is licensed under the `MIT License` - see below for details.
 
-
-**Please tag [@1bytess](https://github.com/1bytess) when using or modifying this project.**
-
 ## 🔗 Useful Links
 
 - [RunPod Documentation](https://docs.runpod.io/)
