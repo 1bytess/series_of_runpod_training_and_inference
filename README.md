@@ -87,40 +87,11 @@ For questions, suggestions, or collaboration opportunities, reach out to:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see below for details.
-
-### MIT License
-
-Copyright (c) 2024 1bytess
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This project is licensed under the `MIT License` - see below for details.
 
 ---
 
 **Please tag [@1bytess](https://github.com/1bytess) when using or modifying this project.**
-
-## ⭐ Support
-
-If you find these tutorials helpful, please consider:
-- Starring this repository
-- Sharing it with others in the AI community
-- Providing feedback to help improve the content
 
 ## 🔗 Useful Links
 
