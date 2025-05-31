@@ -34,6 +34,17 @@ Transform your trained models into a production-ready web application using Next
 - Handling real-time inference requests
 - Deploying your web application
 
+### 4. Docker Deployment and Containerization 🆕
+Learn how to containerize your AI web application using Docker for consistent and scalable deployment across different environments.
+
+**What you'll learn:**
+- Creating optimized Dockerfiles with multi-stage builds
+- Configuring Docker Compose for service orchestration
+- Setting up production-ready containerization
+- Managing environment variables and configurations
+- Container monitoring and troubleshooting
+- Performance optimization for Docker deployments
+
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
