@@ -109,4 +109,4 @@ This project is licensed under the `MIT License` - see below for details.
 
 ---
 
-*Happy training and building! 🚀*
+*Happy training and building~! 🚀*
